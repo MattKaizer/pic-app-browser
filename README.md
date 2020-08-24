@@ -1,3 +1,26 @@
+# ReactJS APP practice - Image Browser
+
+### Simple React App
+
+## Task Description
+
+This app is a image search app, build on reactjs, using custom hooks, for api calls to PixaBay api web.
+
+#### Enum Tech used
+
+* HTML5
+* CSS3
+* JS
+* ReacJS
+* Bootswatch
+* Axios
+
+#### Instructions
+
+In order to make it work you should create an account on (https://pixabay.com/) to get an api key and replace it on src/App.js into apiKey const.
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
